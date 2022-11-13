@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+/* 
+ITSC1319
+10 Planet Jiu Jitsu
+Author: Jorge Cisneros
+Date: 09/28/22
+Filename: main_styles.css
+*/
+
+/* Mobile Devices: 0 to 480px */
+@media only screen and (max-width: 480px) {
+    body {
+        text-align: center;
+    }
+    nav {
+        position: relative;
+    }
+}
+
+/* Tablet Devices: 481px to 768px */
+@media only screen and (min-width: 481px) {
+    body {
+        text-align: center;
+    }
+    nav {
+        position: relative;
+    }
+}
+
+/* Desktop Devices: 769px and wider */
+@media only screen and (min-width: 769px) {
+    body {
+        text-align: center;
+    }
+    nav {
+        position: relative;
+    }
+}

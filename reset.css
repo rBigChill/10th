@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+/* 
+   ITSC1319
+   10 Planet Jiu Jitsu
+   Author: Jorge Cisneros
+   Date: 09/28/22
+   Filename: main_styles.css
+*/
+
+nav ul {
+    list-style: none;
+    list-style-image: none;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+body {
+    line-height: 1;
+}
